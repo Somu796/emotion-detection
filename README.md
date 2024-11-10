@@ -56,6 +56,8 @@ this will generate a standalone .exe file at
 ```
 emotion_detection/
 └── dist/
-    ├── EmotionDetection.exe
+    └── EmotionDetection.exe
 ```
+finally, I want to thank Claude AI for coding assistance.
+
 Thank you.
