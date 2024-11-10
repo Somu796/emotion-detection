@@ -1,5 +1,5 @@
 # Facial Emotion Detection
-Sudipta
+*Sudipta Hazra*
 
 ## Context:
 This modified use case is designed to inspire individuals to explore the application of AI across various fields. As a food science student, I have adapted this case study to showcase how AI can be leveraged in science exhibitions, particularly for engaging early-age students. The model and code were originally sourced from [spmallick/learnopencv](https://github.com/spmallick/learnopencv/tree/master/Facial-Emotion-Recognition), and I have further customized it to create an executable (.exe) file.
