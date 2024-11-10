@@ -1,0 +1,6 @@
+wheel
+setuptools
+numpy>=1.26.0
+opencv-python>=4.8.0
+pyinstaller>=6.3.0
+onnx>=1.15.0
